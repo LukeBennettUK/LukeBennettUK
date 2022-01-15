@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LukeBennettUK
 - 👀 I’m interested in Front end development
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning ASP.net Core with Angular
 - 💞️ I’m looking to collaborate on anything.
 - 📫 How to reach me: lukebennettuk@outlook.com
 
